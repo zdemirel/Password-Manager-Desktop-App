@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PassManager", "PassManager\PassManager.csproj", "{B9BEC4B3-797C-40FE-95B0-FA6A59D9CB1C}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Password Manager Setup", "..\Password Manager Setup\Password Manager Setup.vdproj", "{803D4E2D-3EBF-4E4A-ABD0-039625641023}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Çözüm Öğeleri", "Çözüm Öğeleri", "{23E008CA-66CA-4614-8765-906C18321B8C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9BEC4B3-797C-40FE-95B0-FA6A59D9CB1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9BEC4B3-797C-40FE-95B0-FA6A59D9CB1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9BEC4B3-797C-40FE-95B0-FA6A59D9CB1C}.Debug|x64.ActiveCfg = Debug|x64
+		{B9BEC4B3-797C-40FE-95B0-FA6A59D9CB1C}.Debug|x64.Build.0 = Debug|x64
+		{B9BEC4B3-797C-40FE-95B0-FA6A59D9CB1C}.Release|Any CPU.ActiveCfg = Release|x64
+		{B9BEC4B3-797C-40FE-95B0-FA6A59D9CB1C}.Release|Any CPU.Build.0 = Release|x64
+		{B9BEC4B3-797C-40FE-95B0-FA6A59D9CB1C}.Release|x64.ActiveCfg = Release|x64
+		{B9BEC4B3-797C-40FE-95B0-FA6A59D9CB1C}.Release|x64.Build.0 = Release|x64
+		{803D4E2D-3EBF-4E4A-ABD0-039625641023}.Debug|Any CPU.ActiveCfg = Debug
+		{803D4E2D-3EBF-4E4A-ABD0-039625641023}.Debug|x64.ActiveCfg = Debug
+		{803D4E2D-3EBF-4E4A-ABD0-039625641023}.Release|Any CPU.ActiveCfg = Release
+		{803D4E2D-3EBF-4E4A-ABD0-039625641023}.Release|x64.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6489C548-2E74-44C3-9409-E87329B4ED73}
+	EndGlobalSection
+EndGlobal

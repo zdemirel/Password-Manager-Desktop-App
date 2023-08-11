@@ -1,0 +1,113 @@
+C:\Users\Zeynep\Desktop\PassManager\PassManager\obj\Debug\PassManager.csproj.AssemblyReference.cache
+C:\Users\Zeynep\Desktop\PassManager\PassManager\obj\Debug\PassManager.csproj.SuggestedBindingRedirects.cache
+C:\Users\Zeynep\Desktop\PassManager\PassManager\obj\Debug\PassManager.PassShow.resources
+C:\Users\Zeynep\Desktop\PassManager\PassManager\obj\Debug\PassManager.LoginScreen.resources
+C:\Users\Zeynep\Desktop\PassManager\PassManager\obj\Debug\PassManager.PassGenerator.resources
+C:\Users\Zeynep\Desktop\PassManager\PassManager\obj\Debug\PassManager.Properties.Resources.resources
+C:\Users\Zeynep\Desktop\PassManager\PassManager\obj\Debug\PassManager.SelecScreen.resources
+C:\Users\Zeynep\Desktop\PassManager\PassManager\obj\Debug\PassManager.csproj.GenerateResource.cache
+C:\Users\Zeynep\Desktop\PassManager\PassManager\obj\Debug\PassManager.csproj.CoreCompileInputs.cache
+C:\Users\Zeynep\Desktop\PassManager\PassManager\bin\Debug\PassManager.exe.config
+C:\Users\Zeynep\Desktop\PassManager\PassManager\bin\Debug\PassManager.exe
+C:\Users\Zeynep\Desktop\PassManager\PassManager\bin\Debug\PassManager.pdb
+C:\Users\Zeynep\Desktop\PassManager\PassManager\bin\Debug\EntityFramework.dll
+C:\Users\Zeynep\Desktop\PassManager\PassManager\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Zeynep\Desktop\PassManager\PassManager\bin\Debug\System.Data.SQLite.dll
+C:\Users\Zeynep\Desktop\PassManager\PassManager\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Zeynep\Desktop\PassManager\PassManager\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Zeynep\Desktop\PassManager\PassManager\bin\Debug\EntityFramework.xml
+C:\Users\Zeynep\Desktop\PassManager\PassManager\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Zeynep\Desktop\PassManager\PassManager\bin\Debug\System.Data.SQLite.xml
+C:\Users\Zeynep\Desktop\PassManager\PassManager\obj\Debug\PassManager.csproj.CopyComplete
+C:\Users\Zeynep\Desktop\PassManager\PassManager\obj\Debug\PassManager.exe
+C:\Users\Zeynep\Desktop\PassManager\PassManager\obj\Debug\PassManager.pdb
+C:\Users\Zeynep\Desktop\PassManager2\PassManager\bin\Debug\PassManager.exe.config
+C:\Users\Zeynep\Desktop\PassManager2\PassManager\bin\Debug\PassManager.exe
+C:\Users\Zeynep\Desktop\PassManager2\PassManager\bin\Debug\PassManager.pdb
+C:\Users\Zeynep\Desktop\PassManager2\PassManager\bin\Debug\EntityFramework.dll
+C:\Users\Zeynep\Desktop\PassManager2\PassManager\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Zeynep\Desktop\PassManager2\PassManager\bin\Debug\System.Data.SQLite.dll
+C:\Users\Zeynep\Desktop\PassManager2\PassManager\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Zeynep\Desktop\PassManager2\PassManager\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Zeynep\Desktop\PassManager2\PassManager\bin\Debug\EntityFramework.xml
+C:\Users\Zeynep\Desktop\PassManager2\PassManager\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Zeynep\Desktop\PassManager2\PassManager\bin\Debug\System.Data.SQLite.xml
+C:\Users\Zeynep\Desktop\PassManager2\PassManager\obj\Debug\PassManager.csproj.AssemblyReference.cache
+C:\Users\Zeynep\Desktop\PassManager2\PassManager\obj\Debug\PassManager.csproj.SuggestedBindingRedirects.cache
+C:\Users\Zeynep\Desktop\PassManager2\PassManager\obj\Debug\PassManager.CreateAccount.resources
+C:\Users\Zeynep\Desktop\PassManager2\PassManager\obj\Debug\PassManager.PassShow.resources
+C:\Users\Zeynep\Desktop\PassManager2\PassManager\obj\Debug\PassManager.LoginScreen.resources
+C:\Users\Zeynep\Desktop\PassManager2\PassManager\obj\Debug\PassManager.PassGenerator.resources
+C:\Users\Zeynep\Desktop\PassManager2\PassManager\obj\Debug\PassManager.Properties.Resources.resources
+C:\Users\Zeynep\Desktop\PassManager2\PassManager\obj\Debug\PassManager.SelecScreen.resources
+C:\Users\Zeynep\Desktop\PassManager2\PassManager\obj\Debug\PassManager.csproj.GenerateResource.cache
+C:\Users\Zeynep\Desktop\PassManager2\PassManager\obj\Debug\PassManager.csproj.CoreCompileInputs.cache
+C:\Users\Zeynep\Desktop\PassManager2\PassManager\obj\Debug\PassManager.csproj.CopyComplete
+C:\Users\Zeynep\Desktop\PassManager2\PassManager\obj\Debug\PassManager.exe
+C:\Users\Zeynep\Desktop\PassManager2\PassManager\obj\Debug\PassManager.pdb
+C:\Users\Zeynep\Desktop\PassManager\PassManager\obj\Debug\PassManager.CreateAccount.resources
+C:\Users\Zeynep\Desktop\PassManager - Kopya\PassManager\bin\Debug\PassManager.exe.config
+C:\Users\Zeynep\Desktop\PassManager - Kopya\PassManager\bin\Debug\PassManager.exe
+C:\Users\Zeynep\Desktop\PassManager - Kopya\PassManager\bin\Debug\PassManager.pdb
+C:\Users\Zeynep\Desktop\PassManager - Kopya\PassManager\bin\Debug\EntityFramework.dll
+C:\Users\Zeynep\Desktop\PassManager - Kopya\PassManager\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Zeynep\Desktop\PassManager - Kopya\PassManager\bin\Debug\System.Data.SQLite.dll
+C:\Users\Zeynep\Desktop\PassManager - Kopya\PassManager\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Zeynep\Desktop\PassManager - Kopya\PassManager\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Zeynep\Desktop\PassManager - Kopya\PassManager\bin\Debug\EntityFramework.xml
+C:\Users\Zeynep\Desktop\PassManager - Kopya\PassManager\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Zeynep\Desktop\PassManager - Kopya\PassManager\bin\Debug\System.Data.SQLite.xml
+C:\Users\Zeynep\Desktop\PassManager - Kopya\PassManager\obj\Debug\PassManager.csproj.AssemblyReference.cache
+C:\Users\Zeynep\Desktop\PassManager - Kopya\PassManager\obj\Debug\PassManager.csproj.SuggestedBindingRedirects.cache
+C:\Users\Zeynep\Desktop\PassManager - Kopya\PassManager\obj\Debug\PassManager.CreateAccount.resources
+C:\Users\Zeynep\Desktop\PassManager - Kopya\PassManager\obj\Debug\PassManager.PassShow.resources
+C:\Users\Zeynep\Desktop\PassManager - Kopya\PassManager\obj\Debug\PassManager.LoginScreen.resources
+C:\Users\Zeynep\Desktop\PassManager - Kopya\PassManager\obj\Debug\PassManager.PassGenerator.resources
+C:\Users\Zeynep\Desktop\PassManager - Kopya\PassManager\obj\Debug\PassManager.Properties.Resources.resources
+C:\Users\Zeynep\Desktop\PassManager - Kopya\PassManager\obj\Debug\PassManager.SelecScreen.resources
+C:\Users\Zeynep\Desktop\PassManager - Kopya\PassManager\obj\Debug\PassManager.csproj.GenerateResource.cache
+C:\Users\Zeynep\Desktop\PassManager - Kopya\PassManager\obj\Debug\PassManager.csproj.CoreCompileInputs.cache
+C:\Users\Zeynep\Desktop\PassManager - Kopya\PassManager\obj\Debug\PassManager.csproj.CopyComplete
+C:\Users\Zeynep\Desktop\PassManager - Kopya\PassManager\obj\Debug\PassManager.exe
+C:\Users\Zeynep\Desktop\PassManager - Kopya\PassManager\obj\Debug\PassManager.pdb
+C:\Users\Zeynep\Desktop\PassManager\PassManager\bin\Debug\PassManager.exe.manifest
+C:\Users\Zeynep\Desktop\PassManager\PassManager\bin\Debug\PassManager.application
+C:\Users\Zeynep\Desktop\PassManager\PassManager\obj\Debug\PassManager.exe.manifest
+C:\Users\Zeynep\Desktop\PassManager\PassManager\obj\Debug\PassManager.application
+C:\Users\Zeynep\Desktop\PassManager - Kopya\PassManager\bin\Debug\PassManager.exe.manifest
+C:\Users\Zeynep\Desktop\PassManager - Kopya\PassManager\bin\Debug\PassManager.application
+C:\Users\Zeynep\Desktop\PassManager - Kopya\PassManager\obj\Debug\PassManager.exe.manifest
+C:\Users\Zeynep\Desktop\PassManager - Kopya\PassManager\obj\Debug\PassManager.application
+C:\Users\Zeynep\Desktop\PassManager - Kopya - Kopya\PassManager\obj\Debug\PassManager.csproj.AssemblyReference.cache
+C:\Users\Zeynep\Desktop\PassManager - Kopya - Kopya\PassManager\obj\Debug\PassManager.csproj.SuggestedBindingRedirects.cache
+C:\Users\Zeynep\Desktop\PassManager - Kopya - Kopya\PassManager\obj\Debug\PassManager.CreateAccount.resources
+C:\Users\Zeynep\Desktop\PassManager - Kopya - Kopya\PassManager\obj\Debug\PassManager.DelUser.resources
+C:\Users\Zeynep\Desktop\PassManager - Kopya - Kopya\PassManager\obj\Debug\PassManager.PassShow.resources
+C:\Users\Zeynep\Desktop\PassManager - Kopya - Kopya\PassManager\obj\Debug\PassManager.LoginScreen.resources
+C:\Users\Zeynep\Desktop\PassManager - Kopya - Kopya\PassManager\obj\Debug\PassManager.PassGenerator.resources
+C:\Users\Zeynep\Desktop\PassManager - Kopya - Kopya\PassManager\obj\Debug\PassManager.Properties.Resources.resources
+C:\Users\Zeynep\Desktop\PassManager - Kopya - Kopya\PassManager\obj\Debug\PassManager.SelecScreen.resources
+C:\Users\Zeynep\Desktop\PassManager - Kopya - Kopya\PassManager\obj\Debug\PassManager.csproj.GenerateResource.cache
+C:\Users\Zeynep\Desktop\PassManager - Kopya - Kopya\PassManager\obj\Debug\PassManager.csproj.CoreCompileInputs.cache
+C:\Users\Zeynep\Desktop\PassManager - Kopya - Kopya\PassManager\obj\Debug\PassManager.exe
+C:\Users\Zeynep\Desktop\PassManager - Kopya - Kopya\PassManager\obj\Debug\PassManager.pdb
+C:\Users\Zeynep\Desktop\PassManager - Kopya - Kopya\PassManager\bin\Debug\PassManager.exe.config
+C:\Users\Zeynep\Desktop\PassManager - Kopya - Kopya\PassManager\bin\Debug\PassManager.exe.manifest
+C:\Users\Zeynep\Desktop\PassManager - Kopya - Kopya\PassManager\bin\Debug\PassManager.application
+C:\Users\Zeynep\Desktop\PassManager - Kopya - Kopya\PassManager\bin\Debug\PassManager.exe
+C:\Users\Zeynep\Desktop\PassManager - Kopya - Kopya\PassManager\bin\Debug\PassManager.pdb
+C:\Users\Zeynep\Desktop\PassManager - Kopya - Kopya\PassManager\bin\Debug\EntityFramework.dll
+C:\Users\Zeynep\Desktop\PassManager - Kopya - Kopya\PassManager\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Zeynep\Desktop\PassManager - Kopya - Kopya\PassManager\bin\Debug\System.Data.SQLite.dll
+C:\Users\Zeynep\Desktop\PassManager - Kopya - Kopya\PassManager\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Zeynep\Desktop\PassManager - Kopya - Kopya\PassManager\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Zeynep\Desktop\PassManager - Kopya - Kopya\PassManager\bin\Debug\EntityFramework.xml
+C:\Users\Zeynep\Desktop\PassManager - Kopya - Kopya\PassManager\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Zeynep\Desktop\PassManager - Kopya - Kopya\PassManager\bin\Debug\System.Data.SQLite.xml
+C:\Users\Zeynep\Desktop\PassManager - Kopya - Kopya\PassManager\obj\Debug\PassManager.exe.manifest
+C:\Users\Zeynep\Desktop\PassManager - Kopya - Kopya\PassManager\obj\Debug\PassManager.application
+C:\Users\Zeynep\Desktop\PassManager - Kopya - Kopya\PassManager\obj\Debug\PassManager.csproj.CopyComplete
+C:\Users\Zeynep\Desktop\PassManager - Kopya\PassManager\obj\Debug\PassManager.DelUser.resources
+C:\Users\Zeynep\Desktop\PassManager - Kopya\PassManager\obj\Debug\PassManager.ChangePass.resources
+C:\Users\Zeynep\Desktop\PassManager\PassManager\obj\Debug\PassManager.DelUser.resources
+C:\Users\Zeynep\Desktop\PassManager\PassManager\obj\Debug\PassManager.ChangePass.resources
